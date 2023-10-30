@@ -1,0 +1,2 @@
+# attman
+Attendance management system
