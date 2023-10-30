@@ -1,0 +1,3 @@
+/mnt/485fa260-5c80-412d-9cf1-8c255c8c6b39/0_Boys/Lloyd/code/c++/attendance_management_system/build/CMakeFiles/attman.dir
+/mnt/485fa260-5c80-412d-9cf1-8c255c8c6b39/0_Boys/Lloyd/code/c++/attendance_management_system/build/CMakeFiles/edit_cache.dir
+/mnt/485fa260-5c80-412d-9cf1-8c255c8c6b39/0_Boys/Lloyd/code/c++/attendance_management_system/build/CMakeFiles/rebuild_cache.dir
